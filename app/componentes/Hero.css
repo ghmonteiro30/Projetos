@@ -1,0 +1,57 @@
+/* Hero.css */
+.hero {
+  background: linear-gradient(39deg, #008db7, #7500d4); /* Substitua com as cores desejadas e o ângulo */
+  padding: 20px;
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .hero-description {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .service-list {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .employee-grid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .employee {
+    text-align: center;
+  }
+  
+  .hero h1 {
+    color: #070707; /* Cor desejada para o título */
+    font-family: 'Arial', sans-serif; /* Fonte desejada para o título */
+    font-size: 36px; /* Tamanho desejado para o título */
+
+  }
+  
+  .hero p {
+    color: #1a1a33; /* Cor desejada para os parágrafos */
+    font-family: 'Helvetica', sans-serif; /* Fonte desejada para os parágrafos */
+    font-size: 18px; /* Tamanho desejado para os parágrafos */
+
+  }
+  
+  .hero h2 {
+    color: #0003ad; /* Cor desejada para os subtítulos */
+    font-family: 'Verdana', sans-serif; /* Fonte desejada para os subtítulos */
+    font-size: 24px; /* Tamanho desejado para os subtítulos */
+
+  }
+  
+  .hero li {
+    color: #130c0c; /* Cor desejada para as listas */
+  }
+  
+  
